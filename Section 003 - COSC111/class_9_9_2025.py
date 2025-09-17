@@ -156,3 +156,4 @@ result = (1 + 3) * 5
 print("result")
 print(result)
 
+print(type(24))
